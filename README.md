@@ -1,1 +1,1 @@
-# infinity-support
+# infinity support
